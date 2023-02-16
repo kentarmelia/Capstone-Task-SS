@@ -1,0 +1,7 @@
+{
+  "name": "TaskSS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
